@@ -1,0 +1,3 @@
+#kali-postgresql连接
+
+因为使用kali连接postgresql出现问题才会有这篇文档
